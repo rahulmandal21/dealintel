@@ -1,5 +1,10 @@
 # 💼 DealIntel — AI-Powered M&A Analysis Platform
 
+## Live Demo
+
+🔗 **[dealintel-qzyy7g4jmeuvkjvmev5pfc.streamlit.app](https://dealintel-qzyy7g4jmeuvkjvmev5pfc.streamlit.app)**
+> Demo Mode is on by default for instant, reliable results. Toggle it off in the sidebar to run live AI analysis on any company pair (subject to free-tier API rate limits).
+
 DealIntel automates the work of an investment banking analyst — fetching real financial data, calculating valuations, assessing deal risk, and writing a full Investment Memorandum — using a multi-agent AI system built on **CrewAI** and the **Model Context Protocol (MCP)**.
 
 > Built as a portfolio project to demonstrate practical, architecturally-correct use of MCP — not just as a buzzword, but as the actual data layer powering autonomous AI agents.
