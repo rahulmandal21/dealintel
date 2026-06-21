@@ -120,3 +120,11 @@ Plus a downloadable Excel workbook with a live DCF model, sensitivity table, and
 This project uses only publicly available data (SEC EDGAR filings, public financial news) for educational and portfolio purposes. It is not financial advice and is not intended for real investment decision-making.
 
 ---
+
+
+## Proof: MCP Server Verified Independently
+
+The screenshot below shows the MCP server running standalone, connected to the official [MCP Inspector](https://github.com/modelcontextprotocol/inspector) (a generic MCP client, unrelated to CrewAI). The `get_company_facts` tool was called directly with `ticker: AAPL` and returned real financial data live from SEC EDGAR — confirming the server is a genuine, protocol-compliant MCP server, not just a wrapper used internally by the agents.
+
+![MCP Inspector verifying get_company_facts tool](docs/mcp_inspector_proof.png)
+
