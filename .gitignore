@@ -1,0 +1,14 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# macOS
+.DS_Store
+
+# Misc
+mcp_server/Untitled
+dealintel_output.xlsx
